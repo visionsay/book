@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("🎈 My new app")
+st.title("🎈 지피터스 전자책 스터디")
 st.write(
-    "Let's start building! For help and inspiration, head over to [docs.streamlit.io](https://docs.streamlit.io/)."
+    "이번 생에 꼭 하겠다던 책쓰기 진짜 완성하는 스터디 [docs.streamlit.io](https://docs.streamlit.io/)."
 )
